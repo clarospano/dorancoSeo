@@ -43,8 +43,8 @@ table {
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+  color:white;
+  background-color: #000;
 }
 
 /* base */
@@ -80,6 +80,7 @@ body {
 .contain-center {
   margin-top: 30px;
   text-align: center;
+  font-weight: bold;
 }
 
 /* header */
@@ -97,7 +98,9 @@ body {
 
 .description {
   margin-top: 150px;
-  text-align: left;
+  text-align: center;
+  color:red;
+  font-weight: bold;
 }
 
 /* display film */
